@@ -8,6 +8,9 @@ vsphere_vcenter = "192.168.1.150"
 # vSphere username used to deploy the infrastructure #
 vsphere_user = "vmware@vsphere.local"
 
+# vSphere password used to deploy the infrastructure #
+vsphere_password = "Vnn@1234"
+
 # Skip the verification of the vCenter SSL certificate (true/false) #
 vsphere_unverified_ssl = "true"
 
