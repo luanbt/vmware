@@ -55,7 +55,7 @@ vm_linked_clone = "false"
 vm_cpu = "1"
 
 # The amount of RAM allocated to the virtual machine #
-vm_ram = "1024"
+vm_ram = "4096"
 
 # The IP address of the virtual machine #
 vm_ip = "192.168.1.100"
