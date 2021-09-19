@@ -46,7 +46,7 @@ vm_dns = "192.168.1.149"
 vm_domain = "vnn.com"
 
 # The vSphere template the virtual machine is based on #
-vm_template = "166-Ansible"
+vm_template = "Linux8TMP"
 
 # Use linked clone (true/false)
 vm_linked_clone = "false"
