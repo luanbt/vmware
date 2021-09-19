@@ -6,7 +6,7 @@
 vsphere_vcenter = "192.168.1.150"
 
 # vSphere username used to deploy the infrastructure #
-vsphere_user = "vmware@vsphere.local"
+vsphere_user = "Administrator@vsphere.local"
 
 # vSphere password used to deploy the infrastructure #
 vsphere_password = "Vnn@1234"
