@@ -25,7 +25,7 @@ vsphere_cluster = "Cluster1"
 #===============================================================================
 
 # The name of the virtual machine #
-vm_name = "Test1"
+vm_name = "DB_Postgre"
 
 # The datastore name used to store the files of the virtual machine #
 vm_datastore = "datastore1"
