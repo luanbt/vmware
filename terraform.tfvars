@@ -25,7 +25,7 @@ vsphere_cluster = "Cluster1"
 #===============================================================================
 
 # The name of the virtual machine #
-vm_name = "Slave-Jenkins"
+vm_name = "KUBE-Master1"
 
 # The datastore name used to store the files of the virtual machine #
 vm_datastore = "datastore1"
